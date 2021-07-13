@@ -9,8 +9,8 @@ databases
 - sql, joins, left, right, outer, inner
 - truncate, drop, delete (can be rolled back)
 - primary key (index)
-- unique constraints
 - foreign key
+- unique constraints
 
 
 hibernate
