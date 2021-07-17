@@ -26,3 +26,4 @@ It is used to index fields that are neither ordering fields nor key fields (ther
 
 #### B+ Tree index
 
+B-tree is a data structure that store data in its node in sorted order. B-tree stores data such that each node contains keys in ascending order. Each of these keys has two references to another two child nodes. Te left side child node keys are less than the current keys and the right side child node keys are more than the current keys. If a single node has “n” number of keys, then it can have maximum “n+1” child nodes. 
